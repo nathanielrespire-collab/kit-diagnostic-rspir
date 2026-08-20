@@ -1,0 +1,28 @@
+version_offre: "2026-08-18"
+version_kit: "0.1"
+client: "{{CLIENT}}"
+date_mandat: "{{DATE_MANDAT}}"
+lead_rspir: "inconnu"
+second_regard: "inconnu"
+palier: "inconnu"
+score_complexite: null
+moment_client: "demarrage"
+etape_offre: 1
+commande_autorisee: "qualifier_le_mandat"
+contrat_commandes: "ORCHESTRATION-DES-COMMANDES.yaml"
+statut: "en_attente_entrees"
+prochaine_rencontre: null
+entrees_presentes: []
+entrees_manquantes:
+  - "fiche du lead"
+sorties_attendues:
+  - "qualification et complexite"
+validation_requise: "portee et palier RSPIR"
+validation_obtenue: false
+inconnues_critiques: []
+modules_conditionnels: []
+frontiere_phase_2: false
+diagnostic_termine: false
+derniere_commande_terminee: null
+controles_bloquants: []
+derniere_mise_a_jour: "{{DATE_MANDAT}}"

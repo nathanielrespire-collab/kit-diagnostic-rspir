@@ -1,0 +1,2511 @@
+2026-08-18
+A R C H I T E C T U R E D E L ’ O F F R E
+Le Diagnostic
+RSPIR
+Ce que l’offre est, comment elle
+fonctionne, ce qu’elle exclut
+Document interne. Ne se remet pas au client.
+Version 1, 18 août 2026. Québec.
+S O M M A I R E
+Six parties, trente-six sections, cinq annexes
+Le document est séquencé du plus fondamental au plus opérationnel. Chaque
+section porte une phrase d’ancrage : la règle que la section fait tenir.
+I L A D O C T R I N E E T L E P R O B L È M E
+01 À quoi sert ce document 05
+02 La position de RSPIR 06
+03 Le contexte de marché 07
+04 Le problème apparent et le problème réel 08
+05 Destination économique et promesse directe 09
+II L E M É C A N I S M E
+06 Le mécanisme unique 11
+07 Les 31 dimensions 12
+08 Le diagnostic horizontal 13
+09 Le processus qui saigne 14
+10 La priorisation 15
+11 Le point de convergence 17
+12 La pyramide RSPIR 18
+13 Pourquoi l’IA peut amplifier le chaos 20
+14 Données, sécurité et gouvernance 21
+15 Le diagnostic vertical 22
+16 Standard de preuve 24
+III C E Q U E L E C L I E N T R E Ç O I T
+17 Le cas économique 26
+18 Les conditions de préparation 27
+19 La Stop List 28
+20 La valeur avant le rapport final 29
+21 La charge du client 30
+22 Temps et séances 31
+23 Le Dossier de décision 32
+24 Le value stack et ce qu’on en retire 33
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 02
+S O M M A I R E , S U I T E
+IV L ’ É C O N O M I E D E L ’O F F R E
+25 La garantie de décision exploitable 36
+26 Ce qui est hors portée 38
+27 Le prix 39
+28 L’économie interne et les rôles 41
+29 Le workflow opérationnel 42
+30 Les phases après le Diagnostic 43
+V L E S G A R D E - F O U S
+31 Rareté et urgence 45
+32 Le nom 46
+33 Les cas difficiles 47
+34 Les contradictions résolues 48
+35 Les règles de productisation 49
+36 Les non-négociables 50
+VI A N N E X E S
+A La formule maître 52
+B Le statut des décisions 53
+C Les métriques des dix premiers Diagnostics 54
+D Le check de cohérence 55
+E Les sources 56
+Ce document contient l’économie interne, les cibles d’heures, la grille de
+prix, les garde-fous et ce qui reste à trancher. Il ne se remet jamais à un
+client.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 03
+PARTIE I
+La doctrine et
+le problème
+Pourquoi le Diagnostic existe, d’où part RSPIR, ce que le marché rend
+nécessaire, et la distinction entre ce que le client croit acheter et ce
+que l’offre traite réellement.
+01
+À quoi sert ce
+document
+02
+La position de
+RSPIR
+03
+Le contexte de
+marché
+04
+Le problème
+apparent et le
+problème réel
+05
+Destination
+économique et
+promesse directe
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 04
+01
+PA R T I E I
+L A D O C T R I N E E T L E
+P R O B L È M E
+SOURCE
+pages 01 et 58
+À quoi sert ce document
+«Ce document décrit l’offre. Il n’est pas le texte de l’offre.»
+Ce document doit permettre à une personne qui n’a participé à aucune
+conversation stratégique préalable de comprendre le Diagnostic RSPIR
+sous toutes ses facettes. L’objectif n’est pas de lui faire mémoriser une
+liste de caractéristiques, mais de lui faire comprendre la logique complète
+du produit.
+C E Q UE L E L E C T EUR D O I T P O UVO I R R E C O N S T I TUE R
+01 pourquoi le Diagnostic existe
+02 quel problème le client croit acheter
+03 quel problème plus profond RSPIR résout
+04 quel résultat le Diagnostic peut légitimement
+promettre
+05 comment RSPIR arrive à cette conclusion
+06 comment les 31 dimensions sont utilisées
+07 comment la pyramide RSPIR influence la
+recommandation
+08 comment la priorité est choisie
+09 quels livrables sont réellement utiles
+10 combien de temps le client investit
+11 combien de travail RSPIR absorbe
+12 comment le client s’approprie le résultat
+13 quelle garantie s’applique
+14 où la portée s’arrête
+15 comment le prix est déterminé
+16 comment le Diagnostic ouvre, sans forcer,
+les phases suivantes
+R È G L E D E L E C TUR E
+Chaque section correspond à une idée ou une
+mécanique principale. La séquence va du plus
+fondamental au plus opérationnel. La profondeur
+est présente, mais organisée en couches : le
+lecteur doit toujours pouvoir dire ce qu’il devait
+comprendre dans la section et pourquoi cela
+compte pour la décision.
+C E Q UE C E D O CU M E N T N E FA I T PA S
+transformer RSPIR en vendeur d’IA
+faire croire que toutes les entreprises ont besoin
+d’IA
+faire croire que 31 audits détaillés sont inclus
+surpromettre ou cacher les limites de portée
+multiplier les pages pour créer une impression
+de volume
+être écrit comme une offre agressive de
+marketing direct
+rendre le lecteur dépendant de jargon technique
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 05
+02
+PA R T I E I
+L A D O C T R I N E E T L E
+P R O B L È M E
+SOURCE
+page 03
+La position de RSPIR
+«L’IA est un outil, pas l’identité de RSPIR. »
+RSPIR est un cabinet-conseil québécois en intelligence organisationnelle,
+optimisation, automatisation et IA appliquée. Le point de départ est le
+même dans tous les dossiers : avant d’investir dans une technologie, il
+faut s’assurer qu’on règle le bon problème, au bon endroit et dans le bon
+ordre. Cette doctrine influence toutes les recommandations.
+L E S C O N C LUS I O N S Q U’U N D I AG N O S T I C P EUT P R O DUI R E
+clarifier une responsabilité
+simplifier un processus
+documenter une règle précise
+modifier l’utilisation d’un
+logiciel existant
+intégrer deux systèmes
+remplacer un logiciel
+automatiser
+utiliser un outil IA léger
+déployer un agent
+mesurer avant d’investir
+ne rien faire pour le moment
+référer à un spécialiste hors du
+champ RSPIR
+C E Q UE L ’ I N D É P E N D A N C E S I G N I F I E
+Le Diagnostic n’est pas conçu pour justifier a
+posteriori une solution technologique. Une
+conclusion «pas d’IA maintenant» peut être un
+excellent résultat.
+une philosophie
+une mécanique de réduction du risque
+une preuve de crédibilité
+une protection contre le conflit d’intérêts
+D O C T R I N E D E B A S E
+Avant d’investir dans une
+technologie, il faut s’assurer
+qu’on règle le bon problème,
+au bon endroit et dans le
+bon ordre.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 06
+03
+PA R T I E I
+L A D O C T R I N E E T L E
+P R O B L È M E
+SOURCE
+pages 04 et 52
+Le contexte de marché
+«La disponibilité des outils augmente plus vite que la
+capacité des organisations à déterminer où ils produiront
+de la valeur.»
+S O U R C E E T DAT E C O N S TAT I M P L I C AT I O N R S P I R
+Statistique Canada
+11 juin 2026
+Au deuxième trimestre 2026, 19,2 % des
+entreprises avaient utilisé l’IA pour produire des
+biens ou fournir des services au cours des 12 mois
+précédents, contre 6,1 % au deuxième trimestre
+2024. Dans la même étude, 40 % des entreprises
+déclaraient que l’utilisation de l’IA n’était pas
+pertinente pour leur activité.
+Ne pas forcer l’IA comme
+conclusion.
+McKinsey
+5 novembre 2025
+Près de neuf répondants sur dix indiquaient une
+utilisation régulière de l’IA dans au moins une
+fonction, mais la majorité des organisations
+demeuraient au stade expérimental ou pilote. Les
+plus performantes étaient beaucoup plus
+susceptibles de redessiner fondamentalement les
+workflows, de démontrer une forte prise en charge
+par la direction et de définir quand les outputs
+nécessitent une validation humaine.
+Ne pas superposer une IA à un
+workflow déficient. L’imputabilité
+humaine et la validation ne sont pas
+accessoires.
+Boston Consulting
+Group
+30 septembre 2025
+Seulement 5 % des entreprises de l’étude
+obtenaient de la valeur IA à grande échelle, tandis
+que 60 % rapportaient peu de gains matériels
+malgré leurs investissements.
+L’accès à la technologie n’est pas
+suffisant.
+Deloitte
+rapport 2026
+Les entreprises doivent repenser le travail dans son
+ensemble plutôt que simplement superposer l’IA à
+des processus hérités.
+Cohérent avec la pyramide et
+l’analyse verticale.
+OCDE
+2 mai 2025
+Le manque de compétences demeure une barrière
+d’adoption et les entreprises valorisent les
+approches adaptées aux contextes métier réels.
+L’analyse part du fonctionnement
+réel, pas d’un catalogue générique
+de cas d’usage.
+NIST
+AI Risk Management
+Framework
+La gouvernance est décrite comme une fonction
+transversale de la gestion du risque IA plutôt que
+comme une étape ponctuelle.
+Plus l’IA devient autonome ou
+critique, plus la gouvernance est
+une condition structurante.
+La combinaison compte pour RSPIR : l’IA devient assez commune pour créer de la pression, sans être
+automatiquement pertinente. La question n’est donc plus «faut-il utiliser l’IA?», mais «où, pourquoi, à
+quel niveau et dans quelles conditions ?». La thèse RSPIR n’est pas une réaction anti-technologie.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 07
+04
+PA R T I E I
+L A D O C T R I N E E T L E
+P R O B L È M E
+SOURCE
+pages 05 et 06
+Le problème apparent
+et le problème réel
+«Le problème n’est pas l’absence d’options.
+C’est l’arbitrage.»
+N I V E A U 1 — L E P R O B L È M E A P PA R E N T
+«Je veux de l’IA, de l’automatisation ou de
+l’optimisation, montrez-moi quoi faire.»
+Le prospect arrive avec des formulations
+concrètes. Ce besoin apparent est légitime :
+RSPIR ne le ridiculise pas et ne le remplace pas
+par une formulation trop intellectuelle. Il est
+souvent le déclencheur de la conversation.
+«Où peut-on utiliser l’IA chez nous ?»
+«Qu’est-ce qu’on devrait automatiser ?»
+«Quel outil devrions-nous acheter ?»
+«Est-ce que notre entreprise est prête pour l’IA?»
+«Comment intégrer l’IA dans nos systèmes ?»
+«Combien ça pourrait nous rapporter ou nous faire
+économiser ?»
+«Comment éviter les problèmes de données ou de
+sécurité?»
+«Y a-t-il des aides financières ?»
+«Est-ce qu’on devrait construire un agent ?»
+N I V E A U 2 — L E P R O B L È M E R É E L
+«Comment savoir où intervenir en premier
+pour améliorer réellement mon entreprise
+sans gaspiller du capital, du temps ou créer
+encore plus de complexité ? »
+Le dirigeant a déjà plusieurs options
+défendables : recruter, changer un logiciel, mieux
+utiliser un logiciel existant, intégrer des
+systèmes, revoir un processus, automatiser,
+ajouter de l’IA, externaliser, former, ou ne rien
+faire maintenant. Ce qui manque, c’est l’arbitrage
+entre elles.
+L E R I S Q UE Q UE L E D I AG N O S T I C R É DUI T
+résoudre le mauvais problème
+traiter un symptôme plutôt
+qu’une cause
+automatiser un mauvais
+processus
+acheter le mauvais logiciel
+ajouter un système inutile
+construire trop gros
+investir avant d’être prêt
+créer un agent sur une base
+fragile
+traiter les initiatives dans le
+mauvais ordre
+accumuler de la dette de
+contexte
+augmenter la complexité plus
+vite que la capacité
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 08
+05
+PA R T I E I
+L A D O C T R I N E E T L E
+P R O B L È M E
+SOURCE
+pages 07 et 08
+Destination économique
+et promesse directe
+«Ne jamais confondre la destination économique du client
+et le résultat décisionnel du Diagnostic. »
+D E S T I N AT I O N É C O N O M I Q U E
+Augmenter sa capacité et sa performance
+économique sans devoir augmenter
+proportionnellement ses coûts, sa charge
+humaine et sa complexité.
+Selon l’entreprise, cela peut vouloir dire :
+produire davantage
+absorber davantage de
+volume
+servir davantage de
+clients
+réduire les coûts
+augmenter les marges
+réduire les erreurs
+raccourcir les délais
+libérer du temps humain
+améliorer la qualité
+réduire une dépendance
+critique
+mieux soutenir la
+croissance
+prendre de meilleures
+décisions
+P R O M E S S E D I R E C T E D U D I A G N O S T I C
+Permettre au dirigeant de prendre une
+meilleure prochaine décision d’amélioration
+ou d’investissement, suffisamment étayée
+pour comprendre pourquoi elle passe en
+premier, ce qui doit être prêt et dans quel
+ordre avancer.
+Le Diagnostic ne crée pas à lui seul la destination
+économique. Il rend la prochaine décision plus
+solide. Maintenir la distinction protège l’offre contre
+la surpromesse.
+L E S Q UAT R E L E V I E R S D E C O N C E P T I O N D E L ’O F F R E
+La grille du Grand Slam Offer d’Alex Hormozi est utilisée comme outil de conception, sans transformer
+RSPIR en infoproduit ou en offre agressive.
+01 — AUGMENTER
+Destination économique
+Plus de capacité et de
+performance avec moins de
+croissance proportionnelle
+des coûts et de la
+complexité.
+02 — AUGMENTER
+Probabilité perçue d’y
+arriver
+Méthode, indépendance
+technologique, preuves
+terrain, comparaison des
+alternatives, cas
+économique, pyramide,
+traçabilité, transfert de
+compréhension.
+03 — RÉDUIRE
+Délai
+Cadrage, premiers signaux,
+point de convergence,
+décision finale, première
+action crédible.
+04 — RÉDUIRE
+Effort et sacrifice
+Le client donne accès à sa
+réalité. RSPIR absorbe
+l’analyse, la structuration, la
+reconstruction, la
+comparaison, la synthèse et
+la recommandation.
+La valeur n’augmente pas en ajoutant des livrables. Elle augmente lorsque la démarche rend la bonne
+décision plus probable, plus rapide, moins coûteuse en effort inutile, et réduit le risque de mauvaise dépense.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 09
+PARTIE II
+Le mécanisme
+Comment RSPIR passe d’une lecture large de l’organisation à une
+recommandation défendable sur un seul périmètre : les 31
+dimensions, la priorisation, la pyramide, la descente verticale et le
+standard de preuve.
+06
+Le mécanisme
+unique
+07
+Les 31
+dimensions
+08
+Le diagnostic
+horizontal
+09
+Le processus qui
+saigne
+10
+La priorisation
+11
+Le point de
+convergence
+12
+La pyramide
+RSPIR
+13
+Pourquoi l’IA
+peut amplifier le
+chaos
+14
+Données,
+sécurité et
+gouvernance
+15
+Le diagnostic
+vertical
+16
+Standard de
+preuve
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 10
+06
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 09
+Le mécanisme unique
+«On regarde large avant de descendre.»
+Le mécanisme unique n’est pas un slogan. Il correspond à la façon dont
+RSPIR refuse de sauter directement à la solution. Treize temps, dans
+cet ordre.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 11
+01 Voir l’ensemble grâce aux 31
+dimensions
+02 Repérer les zones significatives de
+friction, de perte de valeur ou de
+contrainte de croissance
+03 Comparer les priorités candidates
+04 Choisir un périmètre prioritaire
+05 Descendre dans le réel sur ce
+périmètre
+06 Analyser les étages humains,
+processus, logiciels, IA
+07 Traiter les données, la sécurité et la
+gouvernance comme facteurs
+transversaux lorsque pertinents
+08 Établir le cas économique au niveau
+de précision permis
+09 Déterminer les conditions de
+préparation
+10 Choisir le niveau d’intervention
+approprié
+11 Définir la bonne séquence
+12 Produire la Stop List
+13 Transférer suffisamment de
+compréhension pour que le client
+puisse décider et agir librement
+C E Q U I R E N D L E M É C A N I S M E
+D I S T I N C T I F
+RSPIR ne demande pas : «Quelle IA
+pourrions-nous mettre ici ?»
+Quel résultat doit s’améliorer,
+pourquoi il ne s’améliore pas
+aujourd’hui, et quel niveau
+d’intervention minimal peut
+raisonnablement créer de
+la valeur?
+07
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 10
+Les 31 dimensions
+«Un radar, jamais 31 audits. »
+Les 31 dimensions RSPIR sont un cadre de lecture horizontal de
+l’organisation. Elles servent de radar. Elles permettent de ne pas examiner
+uniquement la zone que le dirigeant pense problématique.
+C E Q U ’ E L L E S R E P È R E N T
+les frictions
+les goulots
+les dépendances
+les ruptures
+d’information
+les systèmes
+surchargés
+les incohérences
+les zones de risque
+les contraintes de
+croissance
+les pertes de capacité
+les possibilités
+d’amélioration
+C E Q U ’ E L L E S N E S O N T PA S
+31 audits approfondis
+31 rapports
+31 scores de préparation obligatoires
+une promesse d’analyse exhaustive de toute
+l’entreprise
+S TA N D A R D M I N I M A L D E L A L E C TUR E H O R I ZO N TA L E
+La lecture horizontale ne doit pas devenir un formulaire autoévalué. Elle devrait au minimum
+croiser quatre sources.
+01
+la vision du dirigeant
+02
+des indices observables
+03
+les systèmes ou
+artefacts pertinents
+04
+une confrontation au
+terrain lorsque
+nécessaire
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 12
+08
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 11
+Le diagnostic horizontal
+«En quoi cette information peut-elle changer le choix du
+périmètre prioritaire ?»
+Objectif : comprendre suffisamment largement l’entreprise pour éviter
+d’approfondir le mauvais problème. Le diagnostic horizontal ne cherche
+pas à résoudre l’entreprise.
+C E Q U’ I L P R O DUI T
+01
+une vue
+synthétique
+02
+des signaux
+03
+des zones
+candidates
+04
+des relations entre
+certaines zones
+05
+une base
+suffisante pour
+prioriser
+N I V E AU D E P R O F O N D EUR
+La profondeur doit être proportionnelle à la
+décision suivante. RSPIR ne collecte pas des
+informations «au cas où». Chaque question,
+document ou analyse doit pouvoir répondre à
+la phrase d’ancrage de cette section.
+Si l’information ne peut probablement
+pas changer le choix du périmètre, elle
+est secondaire.
+T E S T D E P E R T I N E N C E
+Une information qui ne peut pas
+déplacer le périmètre prioritaire
+n’est pas une information du
+diagnostic horizontal.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 13
+09
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 12
+Le processus qui saigne
+«Le processus qui coûte le plus cher n’est pas
+automatiquement le meilleur premier mandat.»
+Le concept reste important, mais il n’est plus la règle de sélection finale.
+Le processus qui saigne est la zone où l’entreprise perd déjà une quantité
+significative de temps, d’argent, de capacité, de qualité, d’énergie,
+d’information ou de contrôle.
+U N P R O B L È M E T R È S C O Û T E U X P E U T Ê T R E
+extrêmement complexe
+mal documenté
+dépendant de nombreuses équipes
+risqué
+impossible à améliorer rapidement
+U N E D E U X I È M E Z O N E P E U T O F F R I R
+un impact important
+beaucoup moins de risque
+un délai plus court
+de meilleures conditions de préparation
+V E R S I O N É L A R G I E DU R A D A R
+ZONE A
+Où l’entreprise perd déjà de
+la valeur
+ET
+ZONE B
+Où sa structure empêche ou
+empêchera bientôt de créer
+davantage de valeur
+Le deuxième cas permet de traiter les contraintes de croissance avant qu’elles deviennent
+des crises.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 14
+10
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+pages 13 et 14
+La priorisation
+«La grille structure l’arbitrage. Le jugement produit
+la recommandation.»
+Le score n’est pas une machine qui décide. Il sert à rendre le jugement
+plus cohérent et explicable. Deux passes : les filtres de candidature, puis
+la grille comparative.
+PA S S E A — L E S C I N Q F I LT R E S D E C A N D I D ATUR E
+Matérialité
+Influence
+significative sur
+capacité, coût,
+revenu, délai,
+risque, qualité ou
+croissance.
+Actionnabilité
+Quelque chose peut
+raisonnablement
+être changé.
+Lien causal
+plausible
+La zone semble être
+une cause ou un
+levier réel, pas
+seulement un
+symptôme.
+Pertinence
+stratégique
+L’amélioration sert
+les objectifs actuels
+de l’entreprise.
+Preuve minimale
+La candidature
+repose sur plus
+qu’une intuition
+isolée.
+PA S S E B — L A G R I L L E C O M PA R AT I V E SUR 1 0 0
+C R I T È R E C E Q U ’ I L M E S U R E P O N D É R AT I O N
+Potentiel de valeur
+Capacité, coût, marge, revenu, erreurs, vitesse,
+dépendance, croissance.
+30
+Faisabilité
+Possibilité raisonnable d’agir avec les ressources et
+contraintes disponibles.
+15
+Conditions de préparation
+Solidité suffisante des humains, processus, systèmes,
+données et gouvernance selon le cas.
+15
+Délai jusqu’à la première
+valeur
+Temps nécessaire avant de produire un effet utile. 15
+Effet de levier
+organisationnel
+Capacité de l’intervention à débloquer d’autres
+améliorations.
+10
+Risque et complexité Plus le risque est faible, plus le score est élevé. 10
+Niveau de confiance Solidité des observations et données. 5
+TOTA L 100
+Une différence de quelques points ne constitue pas une vérité objective.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 15
+10
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 14
+L A P R I O R I S AT I O N , S U I T E
+Les trois sorties valides
+La priorisation ne produit pas toujours une réponse unique. Trois
+sorties sont également valides, et la troisième compte autant que les
+deux premières.
+SORTIE 01
+Priorité claire
+Une intervention domine
+suffisamment. Le Diagnostic
+peut recommander une
+direction précise.
+SORTIE 02
+Choix conditionnel
+Deux avenues sont défendables
+selon un choix stratégique du
+dirigeant. Priorité croissance,
+option A. Priorité marge,
+option B.
+Le Diagnostic ne prétend pas
+résoudre une décision
+stratégique que seul le
+dirigeant peut prendre.
+SORTIE 03
+Incertitude à réduire
+Une information déterminante
+manque. La bonne prochaine
+décision devient alors mesurer,
+observer, tester, documenter
+une règle précise ou valider une
+hypothèse.
+P R I N C I P E
+«Nous ne savons pas encore » peut être
+une excellente conclusion.
+à condition d’expliquer
+pourquoi l’incertitude compte
+comment la réduire quelle décision deviendra
+possible ensuite
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 16
+11
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 15
+Le point de convergence
+«Une excellente analyse du mauvais problème reste
+une erreur.»
+Le passage horizontal vers vertical est l’un des moments les plus critiques
+du Diagnostic. Avant d’investir fortement dans l’analyse verticale, RSPIR
+expose au client ce que la lecture commence à révéler.
+D U PA S S A G E H O R I Z O N TA L A U PA S S A G E V E R T I C A L
+LECTURE HORIZONTALE — 31 DIMENSIONS ZONES CANDIDATES EN FORÊT
+Point de convergence — validation du périmètre
+Humains
+Processus
+Logiciels
+Intelligence artificielle
+ANALYSE VERTICALE — UN SEUL PÉRIMÈTRE
+C E Q UE R S P I R PA R TAG E À C E M O M E N T
+ce que la lecture commence à révéler
+les zones significatives
+le périmètre qui semble prioritaire
+pourquoi il passe devant les autres
+l’information qui pourrait encore invalider ce
+choix
+C E N ’ E S T PA S U N E S É A N C E D E V E N T E
+C’est un mécanisme de validation. Il réduit le
+risque d’erreur de cadrage, produit une première
+valeur visible, expose le raisonnement et vérifie
+qu’une contrainte importante n’a pas été omise.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 17
+12
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+pages 16 et 17
+La pyramide RSPIR
+«Ne pas donner à une couche technologique plus de
+responsabilité que les couches en dessous peuvent porter. »
+Intelligence
+artificielle
+ÉTAGE
+4
+Logiciels ÉTAGE 3
+Processus et procédures ÉTAGE 2
+Humains ÉTAGE 1
+H U M AI N S
+qui possède le résultat ?
+qui exécute?
+qui valide?
+où l’imputabilité se briset-elle?
+existe-t-il une
+dépendance critique à
+une seule personne?
+quel savoir tacite est à
+risque?
+PR O C ESS U S
+Processus, le quoi et le
+quand. Procédure, le
+comment.
+que se passe-t-il
+réellement ?
+dans quel ordre?
+quelles exceptions
+existent ?
+où sont les reprises ?
+quels contournements
+les employés utilisentils ?
+quelles étapes n’ajoutent
+pas de valeur ?
+LO G I C I E LS
+Le logiciel doit porter ou
+soutenir un processus.
+quels systèmes sont
+réellement utilisés ?
+où l’information est-elle
+recopiée?
+quelles intégrations
+manquent ?
+où les outils imposent-ils
+des contournements ?
+un outil existant peut-il
+déjà résoudre le
+problème?
+I N TE L L I G E N C E
+ARTI F I C I E L L E
+Elle se pose au-dessus
+lorsque l’usage,
+l’autonomie et le risque le
+justifient.
+quelle capacité
+supplémentaire apportet-elle?
+quelle autonomie lui
+donne-t-on?
+quelle validation humaine
+demeure nécessaire?
+quelle erreur est
+acceptable?
+quelles données et
+permissions sont
+requises ?
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 18
+12
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 17
+L A P Y R A M I D E R S P I R , S U I T E
+La nuance essentielle
+La pyramide n’est pas une loi rigide où chaque étage doit être
+terminé avant le suivant. Prise ainsi, elle bloquerait des interventions
+parfaitement raisonnables.
+D O C T R I N E R É E L L E
+Les fondations nécessaires au niveau de risque,
+d’autonomie et de criticité envisagé doivent être
+suffisamment solides sur le périmètre concerné.
+P R É PA R AT I O N L É G È R E
+Un petit outil IA d’appoint peut être utilisé tôt.
+P R É PA R AT I O N B E A U C O U P P L U S É L E V É E
+Un agent qui :
+agit dans plusieurs systèmes
+prend des décisions
+communique avec des clients
+modifie des données
+remplace une capacité humaine
+opère un processus critique
+R E L AT I O N D Y N A M I Q UE
+Il est possible qu’un outil aide lui-même à documenter, formaliser, structurer ou tester un
+processus. RSPIR ne doit donc pas devenir dogmatique.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 19
+13
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 18
+Pourquoi l’IA peut
+amplifier le chaos
+«L’IA ne corrige pas une organisation désorganisée. Elle
+peut amplifier l’état existant.»
+L E S N EUF M É C A N I S M E S D E R I S Q UE
+01
+Augmentation du volume
+d’erreurs
+Un mauvais processus automatisé
+peut produire davantage de
+mauvaises sorties plus
+rapidement.
+02
+Disparition de boucles
+humaines de correction
+Certaines erreurs étaient
+corrigées implicitement par des
+personnes.
+03
+Dilution de l’imputabilité
+«C’est l’IA qui l’a fait» n’est pas
+une structure de responsabilité.
+04
+Automatisation d’un processus
+imaginé plutôt que réel
+Le processus écrit peut être très
+différent du processus exécuté.
+05
+Dette de contexte et mauvaises
+données
+Une IA avec un mauvais contexte
+peut produire des réponses
+cohérentes mais incorrectes.
+06
+Coût caché de vérification
+Une automatisation peut déplacer
+le travail vers la validation des
+outputs.
+07
+Silos automatisés
+Les automatisations locales
+peuvent renforcer la
+fragmentation.
+08
+Perte de savoir tacite
+Remplacer trop vite une personne
+peut faire disparaître des
+connaissances non documentées.
+09
+Coût de sortie
+Plus un mauvais système devient
+intégré, plus il devient cher à
+remplacer.
+A P P U I E XT E R N E
+Les travaux de McKinsey, Deloitte et NIST renforcent l’importance de la gouvernance, des
+workflows, de l’imputabilité humaine, des données et de la gestion des risques lorsque l’IA
+devient plus intégrée ou autonome. Les références complètes figurent à l’annexe E.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 20
+14
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 19
+Données, sécurité et gouvernance
+«Une considération transversale, pas un cinquième étage. »
+Les données ne deviennent pas un cinquième étage de la pyramide. Elles
+traversent les quatre autres et se traitent proportionnellement au risque
+du périmètre.
+Q U E S T I O N S D E D O N N É E S
+l’information nécessaire existet-elle?
+est-elle accessible?
+est-elle cohérente?
+est-elle suffisamment
+structurée?
+comprend-on son sens et son
+contexte?
+existe-t-il des données
+contradictoires ?
+qui en est responsable?
+S É C U R I T É E T C O N F I D E N T I A L I T É
+Lorsque la recommandation
+implique de l’IA, un SaaS
+externe, un agent ou l’accès à
+des systèmes sensibles, le
+Diagnostic signale les risques
+importants.
+Le Diagnostic n’est pas pour
+autant un audit complet de
+cybersécurité.
+G O U V E R N A N C E
+Elle devient plus importante à
+mesure que :
+l’autonomie augmente
+les conséquences d’une erreur
+augmentent
+les données deviennent
+sensibles
+le système influence des
+décisions
+l’IA remplace une capacité
+humaine
+R É F É R E N C E
+NIST décrit la gouvernance comme une fonction transversale
+de la gestion du risque IA plutôt que comme une simple
+étape ponctuelle.
+NIST, AI Risk Management Framework. Voir annexe E.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 21
+15
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+pages 20, 21 et 22
+Le diagnostic vertical
+«On descend jusqu’au niveau nécessaire pour décider, pas
+jusqu’au niveau nécessaire pour construire.»
+Après la lecture horizontale et le point de convergence, RSPIR approfondit
+un périmètre prioritaire cohérent. Ce périmètre peut traverser plusieurs
+fonctions et n’a pas besoin de correspondre à un département.
+E X E M P L E D E P É R I M È T R E T R AV E R S A N T
+Vente Estimation Validation Production
+Cette chaîne peut constituer un seul périmètre vertical si les problèmes sont interdépendants.
+L E S D I X Q UE S T I O N S D E SUF F I S A N C E
+01 Quel résultat cette zone doit-elle produire?
+Pas seulement ce qu’elle fait.
+02 Comment fonctionne-t-elle réellement
+aujourd’hui ? Assez précisément pour
+comprendre le flux réel.
+03 Où se situe la friction dominante? Goulot,
+erreur, attente, reprise, perte d’information,
+dépendance.
+04 Quelle est la cause la plus plausible? Et
+quel est le niveau de confiance?
+05 Qui influence et possède le résultat ?
+Imputabilité, exécution, validation,
+dépendances humaines.
+06 Quels systèmes et quelles données
+comptent réellement ? Seulement ceux qui
+peuvent changer la décision.
+07 Quelles interventions raisonnables
+existent ? Humain, processus, logiciel,
+intégration, automatisation, IA ou
+combinaison.
+08 Qu’est-ce qui doit être vrai pour que
+l’intervention fonctionne? Conditions de
+préparation et dépendances.
+09 Pourquoi mérite-t-elle un investissement ?
+Cas économique proportionné aux
+données.
+10 Quelle décision précise doit être prise
+ensuite? Sortie actionnable.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 22
+15
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 22
+L E D I A G N O S T I C V E R T I C A L , S U I T E
+La frontière entre le
+Diagnostic et la phase 2
+Un test simple sépare les deux. Il s’applique à chaque information
+supplémentaire envisagée.
+A P PA R T I E N T A U D I A G N O S T I C
+L’information peut encore changer
+la décision.
+Le CRM actuel crée des ruptures majeures ; une
+intégration ou un remplacement doit être évalué.
+Un agent IA peut être justifié pour cette capacité
+sous certaines conditions.
+A P PA R T I E N T À L A P H A S E S U I VA N T E
+L’information sert surtout à exécuter une
+décision déjà établie.
+Définir les 47 champs, les règles de
+synchronisation, la migration, l’architecture API et
+la configuration précise.
+Choisir le modèle, concevoir l’orchestration, le
+RAG, les permissions, le monitoring, les tests et les
+mécanismes de repli.
+R È G L E É C O N O M I Q U E
+Le Diagnostic doit être suffisamment précis pour lancer
+correctement la prochaine étape, pas nécessairement pour
+la construire sans aucun travail supplémentaire.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 23
+16
+PA R T I E I I
+L E M É C A N I S M E
+SOURCE
+page 23
+Standard de preuve
+«Observer plutôt que demander de décrire.»
+Une recommandation premium ne devrait pas apparaître comme une
+simple opinion. Trois niveaux restent séparés et identifiables dans le
+Dossier de décision.
+NIVEAU 01
+Faits et observations
+Ce qui a été vu, montré, mesuré
+ou confirmé.
+NIVEAU 02
+Hypothèses et
+inférences
+Ce que RSPIR déduit des
+observations. Lorsqu’une
+conclusion importante dépend
+d’une hypothèse fragile, cela
+doit être visible.
+NIVEAU 03
+Recommandations
+Ce que RSPIR conseille de
+décider ou de faire.
+P R I N C I P E D E T E R R A I N
+A U L I E U D E D E M A N D E R
+«Comment faites-vous ce processus ?»
+«Quels sont vos problèmes avec le CRM?»
+D E M A N D E R O U E X A M I N E R
+«Montrez-nous la dernière fois que vous l’avez
+fait.»
+comment les personnes l’utilisent, ce qui est
+fait hors CRM, où l’information est recopiée, où
+elle se perd
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 24
+PARTIE III
+Ce que le
+client reçoit
+Le cas économique, les conditions de préparation, la Stop List,
+la valeur produite avant le rapport, la charge réelle du client, les
+séances, le Dossier de décision et ce qui est délibérément retiré
+de l’offre.
+17
+Le cas économique
+18
+Les conditions de
+préparation
+19
+La Stop List
+20
+La valeur avant le rapport
+final
+21
+La charge du client
+22
+Temps et séances
+23
+Le Dossier de décision
+24
+Le value stack et ce
+qu’on en retire
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 25
+17
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+page 24
+Le cas économique
+«Quantifier ce qui se défend. Qualifier le reste.»
+Le cas économique fait partie du cœur du Diagnostic. Son rôle :
+déterminer pourquoi une intervention mérite, ou non, du capital, du temps
+ou de l’attention.
+NIVEAU A
+Quantifiable
+Lorsque les données le
+permettent.
+heures
+coûts
+volumes
+erreurs
+revenus
+délais
+capacité
+coût de
+solution
+NIVEAU B
+Estimable
+Lorsque certaines
+données existent.
+hypothèses explicites
+fourchettes
+niveau de confiance
+scénarios
+NIVEAU C
+Stratégique ou
+qualitatif
+Lorsque la valeur est difficile à
+convertir proprement en dollars.
+dépendance à
+une personne
+risque
+fragilité
+qualité
+contrôle
+capacité future
+continuité
+opérationnelle
+C O ÛT D E L ’ I N AC T I O N
+Lorsque pertinent, examiner ce qui se passe
+si l’entreprise :
+ne change rien
+continue à accumuler la friction
+continue à ajouter des systèmes
+reporte une contrainte de croissance
+R È G L E
+Quantifier lorsque c’est
+défendable. Qualifier
+lorsque ça ne l’est pas.
+Ne jamais fabriquer un rendement
+spectaculaire pour rendre un
+projet vendable.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 26
+18
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+page 25
+Les conditions de préparation
+«Voici ce qui doit être vrai avant d’avancer.»
+RSPIR parle de conditions de préparation de la priorité. La question n’est
+jamais l’état général de l’entreprise, mais ce que l’intervention visée exige
+à l’endroit où elle se produit.
+P O U R Q U O I C E C A D R A G E
+Une organisation peu structurée dans
+l’ensemble peut être parfaitement prête pour
+une intervention ciblée.
+Une organisation sophistiquée peut être non
+prête pour un agent autonome critique.
+S O R T I E AT T E N D U E
+Pas nécessairement un score global. Plutôt
+une liste tenue : voici ce qui doit être vrai
+ou être mis en place avant de passer à
+l’intervention suivante.
+L E S D I M E N S I O N S D E P R É PA R AT I O N P O S S I B L E S
+01
+imputabilité
+humaine
+02
+clarté des règles
+03
+stabilité du
+processus
+04
+qualité des
+données
+05
+accessibilité des
+données
+06
+adéquation des
+logiciels
+07
+sécurité
+08
+gouvernance
+09
+compétences
+10
+capacité de
+changement
+V O C A B U L A I R E
+Le document dit conditions de préparation. Les formulations génériques de
+maturité ou de readiness ne sont pas retenues : elles jugent l’entreprise entière
+au lieu de nommer ce qui doit être vrai à l’endroit précis où l’intervention
+aura lieu.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 27
+19
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+page 26
+La Stop List
+«Éviter une mauvaise dépense est une forme réelle
+de rendement.»
+La Stop List est une composante officielle du Diagnostic. Le client ne doit
+pas seulement savoir quoi faire.
+C E Q UE L A S TO P L I S T R E N D E X P L I C I T E
+01 quoi ne pas automatiser maintenant
+02 quel investissement peut attendre
+03 quel logiciel ne semble pas nécessaire
+04 quelle initiative risque de créer plus de
+complexité que de valeur
+05 quel projet est prématuré
+06 quelle décision doit être retardée jusqu’à
+obtention d’une information
+VA L E U R É C O N O M I Q U E
+La Stop List matérialise l’indépendance
+de RSPIR.
+Elle démontre que la réussite du Diagnostic ne dépend pas du nombre de projets
+vendus après. Éviter une mauvaise dépense peut constituer une forme réelle
+de rendement.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 28
+20
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+pages 27 et 28
+La valeur avant le rapport final
+«Deux délais comptent : le temps avant de savoir quoi
+prioriser, et le temps avant que la priorité produise
+un effet.»
+L’objectif n’est pas d’être le plus rapide. L’objectif est de réduire le délai
+jusqu’à la première valeur.
+IMMÉDIATE
+Cadrage
+pourquoi il demande le
+Diagnostic maintenant
+quel résultat il recherche
+ce qu’il croit être le problème
+quelles décisions sont bloquées
+quelles technologies sont
+envisagées
+INTERMÉDIAIRE
+Convergence
+les zones qui émergent
+le périmètre qui sera approfondi
+le raisonnement qui mène à ce
+choix
+FINALE
+Décision
+la priorité
+le raisonnement
+le cas économique
+les conditions
+la séquence
+la Stop List
+la prochaine décision
+DÉLAI 01
+Temps avant la décision
+Temps avant que le dirigeant sache
+quoi prioriser.
+DÉLAI 02
+Temps avant la première valeur
+Temps avant que la priorité puisse
+commencer à créer un effet utile.
+L E N O - R E G R E T I N S I G H T
+RSPIR conçoit son processus de façon à favoriser
+l’apparition rapide d’au moins une observation utile,
+sans en faire une promesse artificielle. Par exemple :
+ne pas signer un logiciel avant de vérifier une
+condition, constater que le vrai problème est une
+triple saisie, identifier qu’une automatisation
+envisagée est prématurée, ou voir qu’une
+dépendance humaine est plus structurante que le
+problème technologique annoncé.
+R È G L E
+Le concept sert à concevoir l’expérience,
+jamais de garantie. Aucune promesse
+contractuelle de découverte rapide.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 29
+21
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+pages 29 et 30
+La charge du client
+«Le client fournit l’accès au réel. RSPIR porte la
+complexité de l’analyse. »
+C E Q U E L E C L I E N T F O U R N I T
+Accès aux bonnes personnes. Celles qui
+exécutent ou comprennent réellement le travail.
+Accès à ce qui existe déjà. Outils, documents,
+données, rapports, exemples.
+Contexte honnête. Échecs, contournements,
+contraintes, zones sensibles.
+Décisions qui lui appartiennent. Budget,
+ambition, priorité stratégique, tolérance au
+risque.
+C E Q U ’ I L N ’A PA S À P R É PA R E R
+remplir 90 questions
+documenter tous ses processus
+créer des procédures juste pour RSPIR
+cartographier tous ses logiciels
+bâtir son propre cas économique
+mobiliser toute l’entreprise
+préparer des documents «au cas où»
+Zéro effort inutile, pas zéro implication.
+C E Q UE R S P I R A B S O R B E
+la structuration du problème
+la reconstruction nécessaire du workflow
+la traduction entre organisation et technologie
+la comparaison des options
+la qualification des hypothèses
+le cas économique
+la synthèse
+la hiérarchisation
+la recommandation
+l’explication de la décision
+P R I N C I P E D ’ E X P É R I E N C E
+Le client ne doit pas avoir l’impression de faire le diagnostic pour le consultant. Il doit sentir
+qu’il donne quelques heures de sa réalité et que RSPIR absorbe le reste du travail analytique.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 30
+22
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+page 31
+HYPOTHÈSE V1
+À TESTER
+Temps et séances
+«Le temps fait partie de la valeur. Il ne se vend jamais
+comme une banque d’heures.»
+L’architecture de séances ci-dessous est une hypothèse V1. Les durées
+réelles font partie de ce qui sera mesuré sur les dix premiers Diagnostics.
+N O S É A N C E O B J E T D U R É E
+01 Cadrage dirigeant
+Objectifs, déclencheur, contexte, hypothèses,
+décisions envisagées.
+environ 60 min
+02 Immersion ciblée Avec les personnes réellement nécessaires.
+1 à 3 × 30–45
+min
+03 Point de convergence
+Validation de la direction avant l’analyse
+verticale approfondie.
+environ 30 min
+04 Session de décision
+Présentation, explication, challenge,
+appropriation.
+environ 90 min
+05 Suivi d’appropriation
+Après que le client a lu, partagé ou réfléchi au
+résultat.
+environ 30–45
+min
+T E M P S C I B L E D U D I R I G E A N T
+3 à 4 h
+Au total pour un Diagnostic standard,
+selon le dossier.
+P O S I T I O N N E M E N T DU T E M P S
+N E PA S V E N D R E
+«15 heures d’experts pour 3 500 $.»
+C O M M U N I Q U E R
+L’expérience : implication client limitée, travail
+analytique absorbé par RSPIR.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 31
+23
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+pages 32 et 35
+Le Dossier de décision
+«Assez détaillé pour être portable, assez court pour ne pas
+recréer du travail chez le client.»
+Dossier de décision RSPIR est le nom conceptuel interne. Le nom
+commercial final n’est pas tranché.
+L E S D O UZ E S E C T I O N S DU L I V R A B L E
+01 Contexte et question de
+départ. Pourquoi le
+Diagnostic a été lancé.
+02 Lecture organisationnelle.
+Signaux importants de la
+lecture horizontale.
+03 Priorités candidates.
+Zones significatives et
+comparaison.
+04 Priorité recommandée. Ce
+qui passe en premier et
+pourquoi.
+05 Analyse du périmètre.
+Humains, processus,
+systèmes, données et IA
+lorsque pertinent.
+06 Cause et mécanisme. Ce
+qui semble réellement
+produire le problème.
+07 Cas économique. Valeur,
+coût, risques et
+hypothèses.
+08 Conditions de préparation.
+Ce qui doit être vrai avant
+ou pendant l’intervention.
+09 Séquence. Maintenant,
+ensuite, plus tard.
+10 Stop List. À éviter, reporter
+ou mesurer avant d’agir.
+11 Incertitudes. Ce qui n’est
+pas suffisamment connu.
+12 Prochaine décision. Action
+claire.
+L E C R I T È R E D E T R A N S F E R T D E C O M P R É H E N S I O N
+Le dirigeant devrait être capable
+d’expliquer la logique de la
+recommandation à son équipe sans avoir
+besoin de RSPIR pour traduire son
+propre dossier.
+Il doit pouvoir l’expliquer à son associé, à son
+équipe, challenger un fournisseur, demander une
+proposition, décider d’attendre, ou poursuivre avec
+RSPIR ou ailleurs.
+L A R E S T I T U T I O N D O I T E X P L I Q U E R
+pourquoi cette priorité
+pourquoi pas les
+autres
+quelles preuves
+quelles incertitudes
+quels prérequis
+quel cas économique
+pourquoi cette
+séquence
+ce qui peut attendre
+ce qui doit être évité
+Ce n’est pas une formation IA complète, un
+programme d’éducation technologique ni du
+support illimité.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 32
+24
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+pages 33, 34 et 46
+Le value stack et
+ce qu’on en retire
+«Le volume de livrables n’est pas la valeur. La réduction de
+l’incertitude utile est la valeur. »
+Le Diagnostic doit permettre au client de répondre à neuf questions. Un
+élément n’appartient au value stack que s’il améliore la décision, augmente la
+crédibilité, réduit le risque, facilite l’appropriation ou facilite la prochaine étape.
+L E S N EUF Q UE S T I O N S
+01
+Que voyons-nous dans
+l’organisation?
+Lecture horizontale.
+02
+Où devrions-nous agir en
+premier ?
+Carte des priorités et
+recommandation.
+03
+Que se passe-t-il réellement dans
+ce périmètre?
+Analyse verticale.
+04
+Pourquoi cela mérite-t-il de
+l’attention ou du capital ?
+Cas économique.
+05
+Qu’est-ce qui doit être prêt ?
+Conditions de préparation.
+06
+Dans quel ordre avancer ?
+Séquence.
+07
+Que ne devrions-nous pas faire
+maintenant ?
+Stop List.
+08
+Quelle est la prochaine décision?
+Action ou décision exploitable.
+09
+Comprenons-nous assez le
+raisonnement pour agir librement ?
+Transfert de compréhension.
+L E S É L É M E N T S C O N D I T I O N N E L S
+Aides financières
+L’ordre est toujours :
+projet pertinent, cas
+économique, intervention
+recommandée,
+financement potentiel.
+Jamais l’inverse. Le
+Diagnostic peut signaler
+un programme et ce qui
+doit être validé. Il ne
+promet ni admissibilité ni
+obtention.
+Sécurité et
+confidentialité
+Inclure les principaux
+enjeux lorsque la
+recommandation
+implique des données,
+systèmes ou IA
+sensibles, sans
+transformer le Diagnostic
+en audit cyber.
+Logiciels et fournisseurs
+Le Diagnostic peut
+établir qu’un changement
+est justifié, les critères
+essentiels et les
+contraintes. La
+comparaison exhaustive
+devient une phase
+suivante.
+Prototype ou POC
+Hors noyau. Dès que
+RSPIR construit, teste
+techniquement ou
+configure, il est entré
+dans l’exécution.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 33
+24
+PA R T I E I I I
+C E Q U E L E C L I E N T
+R E Ç O I T
+SOURCE
+page 46
+L E VA L U E S TA C K , S U I T E
+Ce qu’on retire
+Les éléments suivants peuvent donner l’impression d’ajouter de la valeur
+tout en affaiblissant l’offre. Ils sont écartés délibérément.
+01 score global spectaculaire
+02 score de readiness générique
+03 27 opportunités IA
+04 rapport de tendances IA générique
+05 glossaire
+06 guide ChatGPT
+07 bibliothèque de prompts
+08 nombre garanti d’automatisations
+09 énorme feuille de route
+10 bonus qui n’aident pas la décision
+11 formation incluse automatiquement
+12 recherche exhaustive de subventions
+13 documentation créée pour donner du
+volume
+Le volume de livrables n’est pas la valeur. La
+réduction de l’incertitude utile est la valeur.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 34
+PARTIE IV
+L’économie
+de l’offre
+La garantie et ses limites, la frontière de portée, le prix et la grille de
+complexité, les cibles d’heures internes, le workflow et les phases
+suivantes. Cette partie ne sort jamais du cabinet.
+25
+La garantie de décision exploitable
+26
+Ce qui est hors portée
+27
+Le prix
+28
+L’économie interne et les rôles
+29
+Le workflow opérationnel
+30
+Les phases après le Diagnostic
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 35
+25
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+pages 37 et 38
+La garantie de
+décision exploitable
+«Le Diagnostic est terminé quand la décision tient, pas
+quand le rapport existe.»
+Garantie de décision exploitable est un concept stratégique. Le nom
+commercial n’est pas encore verrouillé. La garantie porte sur la qualité
+de la décision, jamais sur un rendement.
+L E S S E P T C R I T È R E S
+01 Direction. Priorité recommandée ou
+scénarios clairement arbitrés.
+02 Justification. Pourquoi cette direction
+passe devant les alternatives principales.
+03 Preuve. Observations et hypothèses
+importantes identifiables.
+04 Conditions. Prérequis, dépendances et
+obstacles connus.
+05 Économie. Potentiel économique ou
+stratégique établi au niveau de précision
+raisonnable.
+06 Séquence. Maintenant, ensuite, plus tard
+ou pas maintenant.
+07 Action. Prochaine décision ou action
+suffisamment précise.
+A C T I VAT I O N
+Si un élément essentiel demeure
+insuffisamment établi en raison
+d’une analyse insuffisante de
+RSPIR, RSPIR poursuit
+l’analyse nécessaire sans frais
+additionnels.
+P R I N C I P E
+Le Diagnostic n’est pas terminé simplement
+parce qu’un rapport existe. Il est terminé
+lorsqu’une décision suffisamment
+étayée existe.
+Les limites de la garantie sont énoncées à la
+page suivante, avec la même clarté que la
+garantie elle-même.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 36
+25
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+page 38
+L A G A R A N T I E , S U I T E
+Les limites de la garantie
+La garantie ne signifie pas certitude absolue, travail illimité, nouvelles
+analyses gratuites, phase de conception gratuite ni implantation gratuite.
+N O N C O U V E R T A U T O M AT I Q U E M E N T
+nouvelle problématique découverte après la
+conclusion
+deuxième périmètre vertical
+sélection détaillée de fournisseurs
+architecture complète
+données inexistantes ou inaccessibles
+informations importantes retenues
+changement majeur de contexte
+mise en œuvre
+support illimité
+C E Q U E R S P I R N E G A R A N T I T J A M A I S
+un rendement précis
+une économie précise
+un chiffre d’affaires
+une subvention
+le succès d’une implantation
+l’adoption par les employés
+la performance d’un tiers
+un délai de résultat futur dépendant du client
+I N C E R T I T U D E VA L I D E
+Si le Diagnostic établit qu’il faut mesurer X avant de décider Y, la promesse peut être
+considérée satisfaite.
+La décision exploitable peut être : ne pas investir avant d’avoir obtenu
+cette preuve.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 37
+26
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+pages 45 et 36
+Ce qui est hors portée
+«Un élément hors portée peut devenir un travail
+conditionnel limité, ou une phase suivante. »
+Par défaut, le Diagnostic initial n’inclut pas les éléments suivants. Ils ne
+sont pas interdits : ils sortent du forfait et se traitent comme travail
+conditionnel clairement limité ou comme phase suivante.
+audit approfondi des 31
+dimensions
+documentation exhaustive de
+l’organisation
+cartographie complète de tous
+les processus
+architecture technique complète
+développement logiciel
+configuration de systèmes
+prototype
+POC
+migration
+sélection exhaustive de
+fournisseurs
+négociation fournisseur
+audit cyber complet
+formation IA complète
+bibliothèque de prompts
+catalogue générique d’outils
+feuille de route détaillée sur 24
+mois
+support illimité
+analyse verticale de toutes les
+zones découvertes
+L A L I B E R T É D ’ E X É CUT I O N
+Le Diagnostic doit avoir une valeur autonome. Après la remise, le client doit pouvoir l’exécuter luimême, le confier à son équipe, consulter un fournisseur, poursuivre avec RSPIR, attendre, ou
+demander une conception plus détaillée.
+Portabilité
+Le livrable doit être
+compréhensible par un tiers
+compétent.
+Compréhension
+Le client doit comprendre la
+logique suffisamment pour
+défendre ou challenger la
+recommandation.
+Frontière
+Le Diagnostic doit permettre de
+lancer correctement la prochaine
+étape. Il ne contient pas
+automatiquement tous les détails
+nécessaires pour construire
+la solution.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 38
+27
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+pages 39 et 40
+Le prix
+«Le prix suit la complexité diagnostique nécessaire pour
+produire le même standard de décision.»
+Une seule offre : le Diagnostic RSPIR. Pas de tiers Bronze, Argent ou Or.
+Forfait fixe. Le prix d’entrée est un vrai prix de Diagnostic standard, pas
+un prix d’appel.
+SCORE 0–4
+Standard
+3 500 $
+taxes en sus
+SCORE 5–8
+Élargi
+5 500 $
+taxes en sus, référence interne
+actuelle
+SCORE 9–12
+Complexe
+7 500 $ +
+sur proposition
+personnalisée, taxes en sus
+C E Q UI FA I T VA R I E R L E P R I X
+La complexité diagnostique nécessaire pour
+produire le même standard de décision.
+pas le nombre de pages
+pas le nombre de bonus
+pas un nombre artificiel d’opportunités
+R È G L E E XT E R N E E T I N T E R N E
+E XT E R N E
+Le client achète un résultat et un périmètre.
+I N T E R N E
+RSPIR mesure les heures-personnes, les coûts et
+la marge.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 39
+27
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+page 40
+L E P R I X , S U I T E
+La grille de complexité
+Six facteurs, chacun noté 0, 1 ou 2. Le total détermine le palier par défaut.
+FAC T E U R 0 1 2
+A
+Parties prenantes
+nécessaires
+1 à 2 personnes suffisent plusieurs rôles plusieurs équipes ou
+décideurs
+B
+Diversité
+opérationnelle
+fonctionnement
+homogène
+plusieurs fonctions
+significatives
+plusieurs unités, marchés
+ou réalités distinctes
+C
+Écosystème
+technologique
+peu de systèmes
+pertinents
+plusieurs systèmes ou
+intégrations
+environnement fragmenté
+ou critique
+D
+Complexité probable
+du périmètre vertical
+processus contenu plusieurs rôles ou
+systèmes
+plusieurs équipes,
+nombreuses exceptions ou
+interdépendances
+E
+Données, risque et
+réglementation
+faible sensibilité enjeux modérés données sensibles,
+réglementation ou forte
+criticité
+F
+Difficulté d’accès au
+réel
+informations facilement
+accessibles
+informations dispersées reconstruction importante
+probable
+0–4
+Standard
+3 500 $ + taxes
+5–8
+Élargi
+5 500 $ + taxes
+9–12
+Complexe
+7 500 $ + /
+proposition
+R È G L E D E J U G E M E N T
+La grille donne le prix par défaut. Une dérogation est possible si un facteur exceptionnel le
+justifie, mais elle doit être documentée en interne.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 40
+28
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+pages 41 et 42
+L’économie interne et les rôles
+«Si le standard exige régulièrement plus de 16 heurespersonnes, la question n’est pas de travailler plus vite.»
+STANDARD — 3 500 $
+12 à 16 h
+heures-personnes RSPIR visées
+ÉLARGI — 5 500 $
+18 à 24 h
+heures-personnes RSPIR visées
+COMPLEXE — 7 500 $ +
+Sur mesure
+estimation spécifique avant
+proposition
+S I G N A L D ’A L A R M E — L E S Q U AT R E Q U E S T I O N S
+Si le standard exige régulièrement plus de 16 heures-personnes, RSPIR ne conclut pas qu’il
+faut travailler plus vite. RSPIR pose ces quatre questions.
+01
+Le périmètre est-il
+trop large?
+02
+Le prix est-il trop
+bas ?
+03
+La méthode
+contient-elle du
+travail inutile?
+04
+Une phase 2 est-elle
+absorbée par
+erreur ?
+L E A D D U D I A G N O S T I C
+continuité
+relation client
+collecte
+analyse
+coordination
+dossier final
+S E C O N D R E G A R D
+challenge de la priorité
+expertise spécifique
+revue du cas économique
+revue finale
+validation de la recommandation
+P O U R Q U O I O N N E V E N D PA S
+L E S H E U R E S
+Le produit vend RSPIR, pas deux
+consultants présents en
+permanence. Le second regard
+intervient aux moments où sa
+contribution augmente
+réellement la qualité.
+Plus RSPIR devient efficace,
+plus il peut produire une
+meilleure décision rapidement.
+L’efficacité ne devrait pas
+automatiquement faire baisser
+le prix.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 41
+29
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+page 43
+Le workflow opérationnel
+«Quinze étapes, de la qualification au
+suivi d’appropriation.»
+01 Qualification et complexité
+Utiliser la grille de prix.
+02 Préparation légère
+Demander uniquement les
+informations existantes
+nécessaires.
+03 Cadrage
+Objectifs, déclencheur,
+symptômes, décisions
+envisagées.
+04 Lecture horizontale
+31 dimensions comme
+radar.
+05 Priorisation
+Filtres, grille comparative
+et jugement expert.
+06 Point de convergence
+Valider le périmètre
+vertical.
+07 Analyse verticale
+Descendre jusqu’aux 10
+réponses de suffisance
+décisionnelle.
+08 Cas économique
+Au niveau de précision
+permis.
+09 Conditions de préparation
+Identifier ce qui doit être en
+place.
+10 Stop List
+Écarter les initiatives
+prématurées ou contreproductives.
+11 Revue interne RSPIR
+Second regard.
+12 Dossier de décision
+Synthèse.
+13 Session de décision
+Explication et challenge.
+14 Test des 7 critères de
+garantie
+Valider que le Diagnostic
+est réellement terminé.
+15 Suivi d’appropriation
+Questions apparues après
+lecture ou partage.
+S O R T I E DU W O R K F LO W
+Diagnostic terminé. Travail RSPIR
+supplémentaire si la
+garantie n’est pas
+satisfaite.
+Phase 2 distincte lorsque
+la question devient
+«comment construire?».
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 42
+30
+PA R T I E I V
+L ’ É C O N O M I E D E
+L ’O F F R E
+SOURCE
+page 44
+Les phases après le Diagnostic
+«Le Diagnostic doit être rentable même si aucune phase
+suivante ne se vend.»
+PHASE 1
+Diagnostic
+Décider correctement.
+Valeur autonome.
+PHASE 2
+Conception
+Concevoir précisément
+comment réaliser
+l’intervention.
+cartographie détaillée
+architecture
+sélection
+cahier des charges
+règles
+plan d’implantation
+PHASE 3
+Implantation
+Construire, intégrer,
+transformer.
+PHASE 4
+Optimisation
+Mesurer, apprendre,
+ajuster, améliorer.
+P R I N C I P E C O M M E R C I A L
+Le client peut s’arrêter à chaque phase.
+Le Diagnostic ne doit jamais être un coût d’acquisition déguisé qui n’est rentable que si
+RSPIR vend la suite. La séparation entre le Diagnostic et l’implantation est structurelle,
+pas commerciale.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 43
+PARTIE V
+Les garde-fous
+Ce qui empêche l’offre de dériver : le refus de la fausse urgence, le
+nom conservé, les cas difficiles, les tensions résolues, ce qui se
+standardise et les vingt règles qui ne se négocient pas.
+31
+Rareté et urgence
+32
+Le nom
+33
+Les cas difficiles
+34
+Les contradictions résolues
+35
+Les règles de productisation
+36
+Les non-négociables
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 44
+31
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+pages 47 et 48
+Rareté et urgence
+«La meilleure urgence n’est pas d’acheter vite. C’est
+de ne pas décider cher avant de savoir si on règle le
+bon problème. »
+R A R E T É
+La rareté peut être réelle sans être dramatisée.
+Le Diagnostic exige du jugement, de la
+disponibilité, de l’analyse, des échanges
+avec le terrain et une revue senior. RSPIR ne
+peut donc pas accepter un nombre illimité de
+Diagnostics simultanément.
+C E Q U ’O N N E FA I T PA S
+faux compte à rebours
+faux «3 places restantes»
+disponibilité artificiellement limitée
+bonus qui disparaît vendredi
+La rareté est secondaire. La décision d’acheter
+devrait surtout être motivée par la valeur et par
+le coût de la mauvaise décision.
+UR G E N C E
+L’urgence doit être réelle et économique. Trois
+déclencheurs seulement.
+01 Friction actuelle. Quelque chose coûte déjà
+du temps, de l’argent, de la capacité, des
+erreurs, des ventes ou du contrôle.
+02 Décision importante imminente. Avant un
+achat logiciel, une automatisation, un projet
+IA, un recrutement, une transformation ou un
+investissement significatif.
+03 Croissance et complexité. L’entreprise
+continue de grandir, mais ses systèmes et
+processus commencent à montrer leurs
+limites.
+D R O I T À L A N O N - U R G E N C E
+S’il n’existe aucune décision significative ni douleur réelle,
+RSPIR peut conclure que ce n’est pas encore le bon moment.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 45
+32
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+page 49
+Le nom
+«Diagnostic RSPIR. Conservé pour l’instant.»
+P O U R Q U O I
+sobre
+crédible
+immédiatement compréhensible
+compatible avec une firme premium
+suffisamment large pour ne pas forcer une
+solution IA
+N O M S À É V I T E R
+Diagnostic IA comme nom principal
+AI Profit Blueprint
+Growth Accelerator
+noms trop marketing
+R Ô L E DU D E S C R I P T EUR FUTUR
+Le descripteur pourra expliquer le champ couvert. Le copy final sera travaillé séparément.
+performance
+organisationnelle
+optimisation automatisation IA appliquée décision
+d’investissement
+N O N T R A N C H É
+Le nom est conservé pour l’instant, pas verrouillé définitivement. Le nom final
+possible de la garantie et celui du Dossier de décision ne sont pas tranchés non
+plus. Voir l’annexe B.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 46
+33
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+page 50
+Les cas difficiles
+«Une conclusion sans IA peut être un excellent résultat.»
+A Aucune opportunité IA Résultat valide. Le Diagnostic peut recommander
+processus, humain ou logiciel.
+B L’entreprise fonctionne déjà bien Opportunité de capacité, contrainte future,
+absence d’investissement majeur recommandé,
+indicateurs à surveiller.
+C Problème principalement humain RSPIR le documente et peut recommander un
+spécialiste approprié.
+D Problème beaucoup plus gros que
+prévu
+Le Diagnostic identifie la vraie portée et
+recommande une phase d’approfondissement
+plutôt que d’absorber gratuitement la
+transformation.
+E Le dirigeant veut seulement faire
+valider une décision déjà prise
+RSPIR conserve le droit de ne pas soutenir cette
+décision.
+F Contrainte politique cachée RSPIR doit chercher les contraintes d’exécution,
+pas seulement la solution techniquement idéale.
+G Aucune priorité objectivement
+dominante
+Produire un choix conditionnel ou recommander
+une mesure supplémentaire.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 47
+34
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+page 51
+Les contradictions résolues
+«Chaque tension de l’offre a une résolution écrite.»
+T E N S I O N R É S O L U T I O N
+«Il faut des fondations» contre «pas besoin de
+tout documenter»
+Le périmètre prioritaire. On consolide les
+fondations nécessaires à l’endroit où l’on agit.
+«31 dimensions» contre «Diagnostic à partir
+de 3 500 $»
+Horizontal n’égale pas audit approfondi.
+«Experts IA» contre «solution parfois non IA» La technologie est un moyen. La performance
+organisationnelle est l’objectif.
+«Client libre» contre «besoin de RSPIR pour
+comprendre»
+Portabilité et transfert de compréhension.
+«Garantie forte» contre «rendement
+impossible à garantir»
+Garantie de qualité de la décision, pas du résultat
+futur.
+«Grande valeur» contre «peu de temps client» RSPIR absorbe la complexité.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 48
+35
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+page 55
+Les règles de productisation
+«Méthode reproductible, conclusion sur mesure,
+jugement expert.»
+Le Diagnostic est standardisé dans son processus, pas dans
+ses conclusions.
+C E Q U I S E S TA N D A R D I S E
+structure
+grille des 31 dimensions
+filtres de priorité
+scoring
+guides d’entretien
+point de convergence
+questions verticales
+structure de cas
+économique
+conditions de préparation
+Stop List
+structure du Dossier de
+décision
+critères de garantie
+grille de complexité
+revue interne
+C E Q U I N E S E S TA N D A R D I S E J A M A I S
+la priorité
+la solution
+la technologie
+le nombre d’opportunités
+le nombre de personnes interrogées
+le niveau de quantification
+la conclusion IA ou non-IA
+Méthode reproductible, conclusion sur mesure,
+jugement expert.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 49
+36
+PA R T I E V
+L E S G A R D E - F O U S
+SOURCE
+page 56
+Les non-négociables
+«Vingt règles. Aucune ne se négocie au cas par cas.»
+01 L’IA est un outil, pas l’identité.
+02 Ne pas commencer par la technologie.
+03 Les 31 dimensions sont un radar, pas 31
+audits.
+04 Voir horizontalement avant de descendre
+verticalement.
+05 Une analyse verticale prioritaire par
+Diagnostic standard.
+06 Le processus qui saigne est un signal, pas la
+règle finale.
+07 Prioriser selon valeur, faisabilité, préparation,
+risque et délai.
+08 Une conclusion sans IA peut être excellente.
+09 Quantifier seulement ce qui peut être
+défendu.
+10 Ne pas demander au client de préparer son
+entreprise pour être diagnostiquée.
+11 RSPIR absorbe la complexité.
+12 Le client doit comprendre la
+recommandation.
+13 La Stop List fait partie de la valeur.
+14 Le Diagnostic a une valeur autonome.
+15 Le client reste libre d’exécuter avec qui il
+veut.
+16 Garantir la qualité de la décision, pas le
+rendement futur.
+17 La portée s’arrête lorsque la décision est
+établie et que la question devient
+principalement «comment construire?».
+18 Pas de fluff pour gonfler le value stack.
+19 Pas de fausse urgence ni de fausse rareté.
+20 Le Diagnostic doit être rentable même sans
+phase suivante.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 50
+ANNEXES
+Annexes
+Les pièces de travail : la formule maître, le statut des décisions, la
+grille de mesure des dix premiers Diagnostics, le check de
+cohérence et les sources.
+A
+La formule maître
+B
+Le statut des
+décisions
+C
+Les métriques des
+dix premiers
+Diagnostics
+D
+Le check de
+cohérence
+E
+Les sources
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 51
+A
+A N N E X E
+SOURCE
+page 57
+FORMULATION
+CONCEPTUELLE
+PAS DU COPY
+La formule maître
+Cette formulation est conceptuelle. Elle ne constitue pas le texte
+commercial final.
+F O R M U L AT I O N C O N C E P T U E L L E
+Le Diagnostic RSPIR observe l’organisation suffisamment largement
+pour éviter de traiter le mauvais problème, identifie et compare les
+zones où une intervention pourrait créer le plus de valeur,
+approfondit le périmètre prioritaire jusqu’à comprendre ses humains,
+ses processus, ses systèmes et ses conditions de préparation, puis
+établit une recommandation, son cas économique, sa séquence et ce
+qu’il vaut mieux ne pas faire maintenant. RSPIR transfère ensuite
+suffisamment de compréhension au dirigeant pour qu’il puisse
+prendre la prochaine décision et l’exécuter librement avec RSPIR,
+son équipe ou un autre partenaire.
+F O R M U L E É C O N O M I Q U E
+P R O F O N D E
+Plus de capacité et de
+performance sans croissance
+proportionnelle des coûts,
+de la charge humaine et de la
+complexité.
+F O R M U L E D U P R O D U I T D I R E C T
+Une meilleure prochaine
+décision, suffisamment
+étayée pour savoir pourquoi
+elle passe en premier, ce qui
+doit être prêt et dans quel
+ordre avancer.
+F O R M U L E D U R I S Q U E R É D U I T
+Éviter d’investir au mauvais
+endroit, dans la mauvaise
+solution ou dans le
+mauvais ordre.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 52
+B
+A N N E X E
+SOURCE
+page 60
+Le statut des décisions
+Où en est l’offre, en un coup d’œil. Ce qui est verrouillé
+stratégiquement, ce qui reste à tester opérationnellement, et ce qui
+n’est délibérément pas traité ici.
+V E R R O U I L L É S T R AT É G I Q U E M E N T
+rôle du Diagnostic
+problème apparent
+problème réel
+destination économique
+promesse directe
+mécanisme horizontal vers vertical
+rôle des 31 dimensions
+pyramide RSPIR
+conditions de préparation plutôt
+qu’un jugement global
+processus qui saigne comme signal
+logique de priorisation
+cas économique
+Stop List
+réduction du délai
+effort et sacrifice
+transfert de compréhension
+liberté d’exécution
+garantie de décision exploitable
+portée initiale
+phases suivantes indépendantes
+une seule offre
+prix d’entrée de 3 500 $
+pricing par complexité
+importance de mesurer les 10
+premiers dossiers
+absence de fausse rareté ou urgence
+maintien du nom Diagnostic RSPIR
+pour l’instant
+À T E S T E R
+O P É R AT I O N N E L L E M E N T
+temps réel de production
+temps client réel
+efficacité du scoring
+précision de la grille de
+complexité
+pertinence des seuils 0–4, 5–8,
+9–12
+prix élargi de 5 500 $
+seuil de 7 500 $ et plus
+structure exacte du Dossier de
+décision
+durée réelle des séances
+fréquence d’activation de la
+garantie
+perception de valeur
+taux de continuation vers la
+phase 2 sans rendre la phase 1
+dépendante
+D É L I B É R É M E N T N O N T R A I T É
+I C I
+copy final du site
+titres d’accroche
+appels à l’action
+scripts de vente
+design graphique
+nom final potentiel de la
+garantie
+nom final potentiel du Dossier
+de décision
+langage commercial final des 31
+dimensions
+architecture finale de la page
+web
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 53
+C
+A N N E X E
+SOURCE
+page 54
+Les métriques des dix
+premiers Diagnostics
+Grille prête à remplir. RSPIR utilise les premiers mandats pour calibrer
+son propre système : recalibrer le prix et la complexité, supprimer les
+étapes inutiles, améliorer les guides, mesurer les vrais goulots internes
+et renforcer ce qui augmente la valeur client.
+D O N N É E VA L E U R M E S U R É E
+prix
+score de complexité
+initial
+heures-personnes
+prévues
+heures-personnes
+réelles
+temps du dirigeant
+temps des
+collaborateurs
+nombre de personnes
+interrogées
+nombre de priorités
+candidates
+priorité initiale
+priorité finale
+changement après
+convergence ou non
+D O N N É E VA L E U R M E S U R É E
+disponibilité des
+données
+cas économique
+quantifiable ou non
+type de
+recommandation finale
+présence ou non d’IA
+dans la recommandation
+garantie satisfaite au
+premier passage
+travail supplémentaire
+nécessaire
+questions apparues au
+suivi
+satisfaction et
+perception de valeur
+phase 2 vendue ou non
+client exécute avec
+RSPIR, ailleurs, en
+interne ou attend
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 54
+D
+A N N E X E
+SOURCE
+page 59
+Le check de cohérence
+Vingt-trois points à vérifier avant de considérer une future version du
+Diagnostic comme fidèle à cette architecture.
+Le problème apparent et le problème réel sont
+distincts.
+La destination économique et la promesse
+directe sont distinctes.
+Les 31 dimensions sont présentées comme un
+radar.
+Le passage horizontal vers vertical est
+explicite.
+La priorité est comparée à des alternatives.
+La pyramide est présente sans être
+dogmatique.
+Les données et les risques sont traités
+proportionnellement.
+Le cas économique n’invente pas de
+rendement.
+Les conditions de préparation sont concrètes.
+La Stop List est incluse.
+Le client obtient de la valeur avant le rapport
+final.
+Son effort est faible et prévisible.
+Les séances servent au cadrage, à la
+validation et au transfert.
+Le client peut expliquer la recommandation.
+La garantie porte sur une décision exploitable.
+La portée de la garantie est limitée.
+Le Diagnostic standard comporte une analyse
+verticale prioritaire.
+Le pricing dépend de la complexité.
+L’implantation est séparée.
+Le client reste libre.
+L’offre peut conclure «pas d’IA».
+Le Diagnostic est rentable sans vente de
+phase 2.
+Aucun fluff n’a été ajouté pour gonfler la
+valeur perçue.
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 55
+E
+A N N E X E
+SOURCE
+page 53
+Les sources
+Six sources, avec leur titre, leur date, les points utilisés et leur lien.
+Aucune autre donnée externe n’entre dans le document.
+McKinsey &
+Company
+5 novembre 2025
+The state of AI in 2025: Agents, innovation, and transformation
+Points utilisés : expérimentation contre passage à l’échelle, EBIT, redesign des
+workflows, ownership, validation humaine, stratégie, talent, modèle opérationnel,
+technologie, données et adoption.
+https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+Deloitte
+rapport 2026
+The State of AI in the Enterprise, 2026 AI report
+Points utilisés : rendement, préparation de la main-d’œuvre, gouvernance,
+nécessité de redessiner le travail plutôt que superposer l’IA à des processus
+hérités.
+https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intell
+igence/content/state-of-ai-in-the-enterprise.html
+Statistique Canada
+11 juin 2026
+Analysis on artificial intelligence use by businesses in Canada, Q2 2026
+Points utilisés : 19,2 % d’entreprises utilisatrices, progression depuis 2024, 40 %
+considérant l’IA non pertinente.
+https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2026010-eng.htm
+Boston Consulting
+Group
+30 septembre 2025
+The Widening AI Value Gap
+Points utilisés : 5 % future-built, 35 % en passage à l’échelle, 60 % peu de valeur
+matérielle.
+https://www.bcg.com/publications/2025/are-you-generating-value-from-ai-the-widen
+ing-gap
+OCDE
+2 mai 2025
+The Adoption of Artificial Intelligence in Firms
+Points utilisés : barrières de compétences, importance de l’apprentissage
+contextualisé au métier.
+https://www.oecd.org/en/publications/the-adoption-of-artificial-intelligence-infirms_f9ef33c3-en.html
+NIST
+sans date de version
+ici
+AI Risk Management Framework
+Points utilisés : gouvernance et gestion des risques, approche transversale,
+adaptation du contrôle au risque.
+https://www.nist.gov/itl/ai-risk-management-framework
+DOCUMENT INTERNE. NE SE REMET PAS AU CLIENT. 56
