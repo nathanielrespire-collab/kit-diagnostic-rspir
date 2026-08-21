@@ -48,9 +48,10 @@ prêt pour une première signature réelle.
 5. exécuter un premier mandat réel supervisé et prouver qu'une autre personne
    peut utiliser le kit sans son concepteur.
 
-## Confidentialité
+## Publication et confidentialité
 
-Le dépôt est privé. Le test ne contient aucun renseignement de client réel,
-mais l'offre, la méthode, la marque et les contrats demeurent du matériel
-interne RSPIR. Ne pas rendre le dépôt public et ne pas réutiliser Atelier Boréal
-comme témoignage ou étude de cas.
+Le dépôt est public sur décision de Nath. Le test ne contient aucun
+renseignement de client réel. L'offre, la méthode, la marque et les contrats
+demeurent toutefois la propriété de RSPIR. Ne jamais publier de sources ou de
+transcripts d'un vrai client ici, et ne pas présenter Atelier Boréal comme un
+témoignage ou une étude de cas réelle.

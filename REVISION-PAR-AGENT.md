@@ -2,28 +2,27 @@
 
 ## À qui s'adresse ce document
 
-Antoine peut remettre ce fichier à ChatGPT, Claude ou Gemini après avoir donné
-à l'outil un accès en lecture au dépôt privé. L'agent doit agir comme réviseur
+Antoine peut remettre ce fichier à ChatGPT, Claude ou Gemini et lui indiquer la
+branche publique `publication`. L'agent doit agir comme réviseur
 indépendant. Il ne doit ni modifier les fichiers, ni pousser de changement, ni
 tenir les fichiers pour vrais simplement parce qu'ils existent.
 
 Pour Claude, utiliser de préférence le mandat approfondi prêt à copier :
 [`PROMPT-CLAUDE-REVISION-EXHAUSTIVE.md`](./PROMPT-CLAUDE-REVISION-EXHAUSTIVE.md).
 
-## Connexion au dépôt privé
+## Connexion au dépôt public
 
-Avant toute chose, Antoine doit accepter l'invitation GitHub et ouvrir le dépôt
-avec le même compte GitHub que celui connecté à l'agent.
+Le dépôt est accessible sans invitation :
+https://github.com/nathanielrespire-collab/kit-diagnostic-rspir/tree/publication
 
 ### ChatGPT
 
 1. Ouvrir `Paramètres → Applications → GitHub`.
-2. Connecter GitHub et autoriser précisément le dépôt
+2. Connecter GitHub et sélectionner précisément le dépôt
    `nathanielrespire-collab/kit-diagnostic-rspir`.
 3. Dans un nouveau chat ou en mode Agent/Recherche approfondie, ajouter GitHub
    comme source et coller le prompt de révision ci-dessous.
-4. Si le dépôt privé n'apparaît pas, ouvrir la configuration de l'application
-   GitHub et vérifier que ce dépôt est autorisé; l'indexation peut prendre
+4. Vérifier que la branche `publication` est utilisée; l'indexation peut prendre
    quelques minutes.
 
 Documentation officielle :
@@ -33,7 +32,7 @@ https://help.openai.com/fr-fr/articles/11145903-connecting-github-to-chatgpt
 
 1. Dans un chat, cliquer `+`, puis `Add from GitHub`; ou, dans un Project,
    ajouter GitHub à la connaissance du projet.
-2. Autoriser l'application GitHub de Claude pour ce dépôt privé.
+2. Sélectionner le dépôt public et la branche `publication`.
 3. Sélectionner le dépôt, puis les dossiers indiqués dans l'ordre de lecture.
 4. Utiliser `Sync` avant la révision pour lire la version la plus récente.
 
@@ -45,7 +44,7 @@ https://support.anthropic.com/en/articles/10167454-using-the-github-integration
 1. Sur ordinateur, ouvrir `gemini.google.com`.
 2. Cliquer `Ajouter un fichier → Plus de téléversements → Importer du code`.
 3. Entrer l'URL du dépôt ou de sa branche.
-4. Lier le compte GitHub qui a accepté l'invitation au dépôt privé.
+4. Sélectionner la branche `publication` si l'interface le permet.
 5. Coller le prompt de révision. Gemini importe un instantané : réimporter le
    dépôt si une nouvelle version est publiée.
 
@@ -98,7 +97,8 @@ https://support.google.com/gemini/answer/16176929?hl=fr
 > Contraintes : ne présume aucun réglage de compte; ne transforme pas les 31
 > dimensions en audit exhaustif; ne confonds pas un score avec une preuve;
 > n'accepte aucun chiffre sans source et date; ne considère pas les validations
-> fictives comme des validations réelles; ne recommande pas de publier le dépôt;
+> fictives comme des validations réelles; ne recommande jamais d'y publier des
+> données d'un vrai client;
 > signale toute contradiction avec l'offre finale avant toute préférence de
 > style.
 
