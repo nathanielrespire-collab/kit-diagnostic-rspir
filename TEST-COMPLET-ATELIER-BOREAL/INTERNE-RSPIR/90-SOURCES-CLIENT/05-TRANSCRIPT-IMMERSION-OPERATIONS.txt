@@ -1,0 +1,10 @@
+[00:00] RSPIR : Marc, consentez-vous à l'enregistrement et à la transcription?
+[00:05] Marc Gagnon : Oui.
+[01:40] Marc Gagnon : Les ventes disent souvent que les opérations bloquent, mais on reçoit des demandes sans code produit ni quantité claire.
+[05:15] Marc Gagnon : Quand tout est complet, on répond le jour même. Le vrai délai vient des allers-retours et du fait qu'on ne sait pas qui attend qui.
+[09:30] Marc Gagnon : J'ai montré le cas 26-0718. Trois personnes ont modifié la soumission et la version envoyée n'était pas la dernière.
+[14:05] Marc Gagnon : Le système comptable contient déjà les produits et stocks, mais l'Excel ne reprend pas les mêmes identifiants.
+[20:20] Marc Gagnon : Je ne veux pas qu'une IA promette une disponibilité au client. Une validation humaine est obligatoire.
+[28:10] RSPIR : Si on clarifie les entrées, le propriétaire et les statuts avant de choisir un outil, est-ce acceptable?
+[28:18] Marc Gagnon : Oui. Sinon on va numériser le désordre.
+

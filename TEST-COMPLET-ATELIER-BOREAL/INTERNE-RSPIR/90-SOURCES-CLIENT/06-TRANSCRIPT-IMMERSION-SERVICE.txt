@@ -1,0 +1,10 @@
+[00:00] RSPIR : Léa, consentez-vous à l'enregistrement et à la transcription?
+[00:05] Léa Bouchard : Oui.
+[02:05] Léa Bouchard : Sophie pense que tout attend une journée, mais je traite souvent les demandes simples en moins d'une heure.
+[05:50] Léa Bouchard : Le problème, ce sont les demandes incomplètes et les versions. Je copie le courriel dans Excel, puis je cherche le bon vendeur.
+[11:30] Léa Bouchard : Le statut « en attente » est presque inutile. J'ajoute parfois une note libre pour me rappeler qui doit répondre.
+[17:45] Léa Bouchard : Une IA pourrait peut-être résumer le courriel, mais elle ne saurait pas quelle exception commerciale Antoine — pardon, notre directeur des ventes — a promise.
+[23:10] Léa Bouchard : J'ai besoin d'un formulaire minimum ou d'une checklist, d'un propriétaire et d'un endroit où la dernière version est évidente.
+[29:00] RSPIR : Sur dix demandes complexes, combien exigent une reprise?
+[29:06] Léa Bouchard : Je ne sais pas. Il faudrait le mesurer pendant quelques semaines.
+

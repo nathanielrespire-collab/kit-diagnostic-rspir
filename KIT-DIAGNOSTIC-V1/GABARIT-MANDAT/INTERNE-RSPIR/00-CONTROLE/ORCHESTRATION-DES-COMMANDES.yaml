@@ -1,0 +1,146 @@
+version: "0.2"
+regle: "executer une seule commande puis arreter"
+
+commandes:
+  - commande: qualifier_le_mandat
+    etapes_offre: [1]
+    moment_client: demarrage
+    entrees: [fiche_du_lead]
+    sorties: ["01-DEMARRAGE/01-QUALIFICATION-ET-COMPLEXITE.md"]
+    controles: [anti_invention, complexite]
+    porte: "validation RSPIR du palier et de la portee"
+    suivante: preparer_le_cadrage
+
+  - commande: preparer_le_cadrage
+    etapes_offre: [2]
+    moment_client: demarrage
+    entrees: [mandat_accepte, portee_confirmee, acces_recherche_autorises]
+    sorties: ["01-DEMARRAGE/02-RECHERCHE-PREPARATOIRE.md", "01-DEMARRAGE/03-PREPARATION-CLIENT.md"]
+    controles: [pertinence, effort_client, anti_invention]
+    porte: "autorisation humaine avant toute demande ou envoi externe"
+    suivante: ingerer_le_cadrage
+
+  - commande: ingerer_le_cadrage
+    etapes_offre: [3]
+    moment_client: cadrage
+    entrees: [transcript_cadrage, reponses, pieces_recues]
+    sorties: ["02-CADRAGE/02-SYNTHESE-DE-CADRAGE.md", registre_analytique]
+    controles: [transcript, preuve, effort_client]
+    porte: "question de depart suffisamment claire"
+    suivante: preparer_immersion
+
+  - commande: preparer_immersion
+    etapes_offre: [4]
+    moment_client: immersion_et_lecture
+    entrees: [synthese_cadrage, radar_D01_D31]
+    sorties: ["03-IMMERSION-ET-LECTURE/01-BALAYAGE-D01-D31.md", "03-IMMERSION-ET-LECTURE/02-PLAN-D-IMMERSION.md"]
+    controles: [radar_non_audit, pertinence, effort_client]
+    porte: "aucune action externe sans autorisation"
+    suivante: analyser_immersion
+
+  - commande: analyser_immersion
+    etapes_offre: [4]
+    moment_client: immersion_et_lecture
+    entrees: [transcripts_immersion, observations, artefacts]
+    sorties: ["03-IMMERSION-ET-LECTURE/03-ANALYSE-DE-RENCONTRE.md", registre_analytique]
+    controles: [preuve, contradictions, radar_non_audit]
+    porte: "lecture suffisante pour comparer les candidates"
+    suivante: preparer_convergence
+
+  - commande: preparer_convergence
+    etapes_offre: [5, 6]
+    moment_client: convergence
+    entrees: [zones_candidates, preuves_minimales]
+    sorties: ["04-CONVERGENCE/01-FILTRES-ET-COMPARAISON.md", "04-CONVERGENCE/02-PAQUET-DE-CONVERGENCE.md"]
+    controles: [cinq_filtres, poids_officiels, alternatives]
+    porte: "validation explicite du perimetre"
+    suivante: ingerer_convergence
+
+  - commande: ingerer_convergence
+    etapes_offre: [6]
+    moment_client: convergence
+    entrees: [transcript_convergence, decision_perimetre]
+    sorties: [journal_decisions, manifeste]
+    controles: [preuve_validation, inconnue_invalidante]
+    porte: "perimetre valide ou mesure supplementaire decidee"
+    suivante: approfondir_perimetre
+
+  - commande: approfondir_perimetre
+    etapes_offre: [7, 8, 9, 10]
+    moment_client: approfondissement
+    entrees: [perimetre_valide, preuves_verticales]
+    sorties: ["05-APPROFONDISSEMENT/01-DIX-QUESTIONS-DE-SUFFISANCE.md", "05-APPROFONDISSEMENT/02-PYRAMIDE-ET-FLUX-REEL.md", "05-APPROFONDISSEMENT/03-CAUSE-OPTIONS-ET-RISQUES.md", "05-APPROFONDISSEMENT/04-CAS-ECONOMIQUE.md", "05-APPROFONDISSEMENT/05-CONDITIONS-SEQUENCE-STOP-LIST.md"]
+    controles: [dix_questions, economie, portee, risques_IA_si_applicable]
+    porte: "suffisant pour decider, pas pour construire"
+    suivante: preparer_second_regard
+
+  - commande: preparer_second_regard
+    etapes_offre: [11]
+    moment_client: decision
+    entrees: [analyse_verticale, economie, conditions, sequence, stop_list]
+    sorties: ["06-DECISION/01-SECOND-REGARD.md"]
+    controles: [completude_paquet]
+    porte: "avis du second regard recu et reserves traitees"
+    suivante: assembler_dossier_decision
+
+  - commande: assembler_dossier_decision
+    etapes_offre: [12]
+    moment_client: decision
+    entrees: [second_regard_resolu, analyses_validees]
+    sorties: ["06-DECISION/02-DOSSIER-DE-DECISION.md", "06-DECISION/03-GUIDE-DE-SESSION.md"]
+    controles: [douze_sections, neuf_questions, portabilite, confidentialite, densite]
+    porte: "validation humaine du fond avant production de la version client"
+    suivante: produire_version_client
+
+  - commande: produire_version_client
+    etapes_offre: [12]
+    moment_client: decision
+    entrees: [dossier_interne_valide, guides_marque, "06-DECISION/MODELE-DOSSIER-RSPIR-V1.docx"]
+    sorties: ["../LIVRABLES-CLIENT/03-DOSSIER-DE-DECISION/DOSSIER-DE-DECISION.docx", "../LIVRABLES-CLIENT/03-DOSSIER-DE-DECISION/DOSSIER-DE-DECISION.pdf"]
+    controles: [marque, densite, douze_sections, neuf_questions, portabilite, confidentialite]
+    porte: "autorisation humaine avant tout partage externe"
+    suivante: ingerer_session_decision
+
+  - commande: ingerer_session_decision
+    etapes_offre: [13]
+    moment_client: decision
+    entrees: [transcript_session, questions, decisions_client]
+    sorties: ["06-DECISION/02-DOSSIER-DE-DECISION.md", registre_analytique, journal_decisions]
+    controles: [changements_justifies, contradictions]
+    porte: "session tenue et changements integres"
+    suivante: tester_garantie
+
+  - commande: tester_garantie
+    etapes_offre: [14]
+    moment_client: decision
+    entrees: [dossier_apres_session]
+    sorties: ["06-DECISION/04-TEST-DE-GARANTIE.md"]
+    controles: [sept_criteres, limites_garantie]
+    porte: "jugement RSPIR"
+    suivante_si_reussi: preparer_suivi
+    retour_si_echec: "etape precise dont l'analyse est insuffisante"
+
+  - commande: preparer_suivi
+    etapes_offre: [15]
+    moment_client: suivi
+    entrees: [garantie_satisfaite, questions_apres_partage]
+    sorties: ["07-SUIVI/01-SUIVI-D-APPROPRIATION.md"]
+    controles: [appropriation, nouvelle_problematisation]
+    porte: "rencontre ou reponse de suivi"
+    suivante: fermer_diagnostic
+
+  - commande: fermer_diagnostic
+    etapes_offre: [15]
+    moment_client: suivi
+    entrees: [suivi_traite, sept_criteres_toujours_satisfaits]
+    sorties: [manifeste, metriques, livrables_finaux]
+    controles: [fermeture, phase_2_separee]
+    porte: "validation RSPIR de fermeture"
+    suivante: null
+
+regles_transition:
+  - "la sortie existe et son critere de suffisance est satisfait"
+  - "les controles applicables ne contiennent aucun bloquant"
+  - "la porte humaine est fermee lorsque requise"
+  - "le manifeste est mis a jour"
+  - "la commande suivante n'est jamais lancee automatiquement"

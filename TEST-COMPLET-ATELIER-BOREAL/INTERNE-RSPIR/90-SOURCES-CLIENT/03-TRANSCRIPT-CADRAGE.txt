@@ -1,0 +1,13 @@
+[00:00] RSPIR : Confirmez-vous le consentement à l'enregistrement et à la transcription pour ce test fictif?
+[00:08] Sophie Tremblay : Oui. Marc et moi consentons.
+[01:12] Sophie Tremblay : Je pense qu'il nous faut un CRM avec une IA. On perd facilement une journée avant qu'une demande parte à la bonne personne.
+[03:40] Marc Gagnon : Une journée, c'est surtout dans les gros dossiers. La majorité passe assez vite, mais on n'a pas le chiffre.
+[06:15] Sophie Tremblay : La décision, c'est si je libère un budget maintenant. Je ne veux pas choisir une plateforme pour découvrir que le problème était ailleurs.
+[10:05] Marc Gagnon : Une demande entre par courriel. Léa la copie dans Excel. Les ventes ajoutent les prix. Les opérations vérifient la disponibilité. Il n'y a pas de propriétaire unique.
+[14:20] Sophie Tremblay : Deux clients nous ont parlé de délai ce mois-ci. Je n'ai pas les courriels ici.
+[18:55] Marc Gagnon : Le statut « en attente » peut vouloir dire client, fournisseur ou vérification interne. On ne peut pas le distinguer dans le fichier.
+[24:10] Sophie Tremblay : Je veux savoir quoi régler en premier et ce qu'on ne devrait surtout pas acheter trop tôt.
+[31:00] RSPIR : La question confirmée est-elle : « Quel changement doit passer en premier pour réduire les délais de soumission sans acheter prématurément une solution? »
+[31:10] Sophie Tremblay : Oui.
+[31:13] Marc Gagnon : Oui.
+
