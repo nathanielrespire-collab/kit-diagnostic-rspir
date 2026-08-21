@@ -1,0 +1,11 @@
+[00:00] RSPIR : Confirmez-vous le consentement à l'enregistrement de la session de décision?
+[00:05] Sophie Tremblay : Oui.
+[00:06] Marc Gagnon : Oui.
+[04:15] Sophie Tremblay : Je comprends la recommandation. Je refuse seulement qu'on attende trois mois avant toute amélioration.
+[07:20] RSPIR : Le Dossier recommande une stabilisation immédiate et une mesure de quatre semaines, pas une attente inactive.
+[12:40] Marc Gagnon : Je peux être propriétaire du test. Léa documentera le motif d'attente et les reprises.
+[18:30] Sophie Tremblay : Ajoutons un seuil : si plus de 15 % des dossiers mesurés dépassent 48 heures pour une cause interne, on prépare une phase de conception.
+[22:10] RSPIR : Ce seuil est une décision du client, pas une garantie de résultat. Confirmé?
+[22:15] Sophie Tremblay : Confirmé.
+[27:30] Sophie Tremblay : Je peux expliquer ceci à mon comité : on corrige le flux, on mesure, puis on choisit l'outil avec de vraies exigences.
+

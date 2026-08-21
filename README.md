@@ -1,40 +1,56 @@
-# Architecture opérationnelle du Diagnostic RSPIR — V0.1 en validation
+# Diagnostic RSPIR — Kit V1 et test complet
 
-Ce dépôt contient la méthode interne, l'orchestration, les gabarits et les contrôles du Diagnostic RSPIR. Il ne constitue pas encore le livrable client final mis en page ni une preuve que le système a été transféré et testé sur un mandat réel.
+## Statut honnête
 
-La source d'autorité est incluse dans `SOURCES-OFFICIELLES/`. Le PDF prévaut; le TXT sert uniquement à faciliter la recherche.
+Ce dépôt contient une **V1 testable avec supervision** du Diagnostic RSPIR.
+Le parcours de quinze étapes a été exécuté au complet sur une organisation
+entièrement fictive. Le kit n'est pas encore déclaré transféré ni juridiquement
+prêt pour une première signature réelle.
 
-## Créer un mandat
+## Commencer ici
 
-```powershell
-.\INITIALISER-NOUVEAU-MANDAT.ps1 -Client "Nom du client" -Destination "C:\Dossier\Mandats"
-```
+1. [Comprendre le test de bout en bout](./TEST-COMPLET-ATELIER-BOREAL/00-GUIDE-HUMAIN-DU-TEST.md)
+2. [Lire le Dossier de décision fictif en PDF](./TEST-COMPLET-ATELIER-BOREAL/LIVRABLES-CLIENT/03-DOSSIER-DE-DECISION/DOSSIER-DE-DECISION-ATELIER-BOREAL-TEST.pdf)
+3. [Comprendre le kit réutilisable](./KIT-DIAGNOSTIC-V1/README.md)
+4. [Donner à Claude la révision exhaustive](./PROMPT-CLAUDE-REVISION-EXHAUSTIVE.md)
+5. [Connecter GitHub et mandater un autre agent](./REVISION-PAR-AGENT.md)
+6. [Voir ce qui manque aux contrats](./CONTRATS-V0.9-A-VALIDER/03-REGISTRE-DOCUMENTS-JURIDIQUES-A-CREER.md)
 
-L'initialisateur copie le gabarit, le noyau et les références, puis crée deux zones :
+## Contenu
 
-- `INTERNE-RSPIR` : sources, transcripts, analyses, contrôles et versions de travail;
-- `LIVRABLES-CLIENT` : seulement les versions validées et partageables.
+- `KIT-DIAGNOSTIC-V1/` — méthode, orchestration, contrôles, références,
+  modèles, outils et SOP actuels;
+- `TEST-COMPLET-ATELIER-BOREAL/` — cas fictif, sources, transcripts,
+  analyses, décisions, contrats simulés et livrables client;
+- `CONTRATS-V0.9-A-VALIDER/` — six modèles contractuels en Markdown, Word
+  et PDF; ils ne doivent pas être signés avant les validations restantes;
+- `SOURCES-OFFICIELLES/` — offre finale du 18 août 2026 en PDF et son texte
+  de lecture; le PDF prévaut;
 
-## Exécuter
+## Ce que le test a démontré
 
-1. Lire `NOYAU-AGENT.md`.
-2. Lire les deux références RSPIR.
-3. Lire le manifeste du mandat.
-4. Lire le contrat `ORCHESTRATION-DES-COMMANDES.yaml`.
-5. Exécuter seulement la commande autorisée.
-6. Mettre à jour le registre analytique et le journal.
-7. S'arrêter avant l'étape suivante.
+- séparation réelle entre sources internes et livrables client;
+- exécution des quinze étapes et de leurs portes humaines;
+- usage des 31 dimensions comme radar, jamais comme 31 audits;
+- sélection et approfondissement d'un seul périmètre prioritaire;
+- Dossier de décision en douze sections;
+- second regard, session de décision, sept critères de garantie et suivi;
+- simulation de l'annexe de traitement, des consentements, d'un changement de
+  portée et du constat de fin;
+- production d'un livrable RSPIR de quinze pages en DOCX et PDF.
 
-## Parcours
+## Ce qui reste avant une V1 contractuelle
 
-`Démarrage → Cadrage → Immersion et lecture → Convergence → Approfondissement → Décision → Suivi`
+1. confirmer l'entité contractante, son adresse et son signataire;
+2. trancher les modalités commerciales et juridiques encore ouvertes;
+3. vérifier les réglages réels Fireflies/OpenAI et le canal de partage;
+4. faire valider une fois le paquet V0.9 par un avocat québécois;
+5. exécuter un premier mandat réel supervisé et prouver qu'une autre personne
+   peut utiliser le kit sans son concepteur.
 
-Les quinze étapes de l'offre demeurent dans ce parcours. Le client ne voit que les moments qui lui apportent de la valeur.
+## Confidentialité
 
-## Règle des 31 dimensions
-
-Toutes servent au balayage. Seulement quelques zones deviennent candidates. Un seul périmètre vertical est approfondi dans le Diagnostic standard.
-
-## Avant de partager
-
-Exécuter les contrôles applicables. Aucun fichier interne n'est déplacé dans `LIVRABLES-CLIENT` sans validation humaine.
+Le dépôt est privé. Le test ne contient aucun renseignement de client réel,
+mais l'offre, la méthode, la marque et les contrats demeurent du matériel
+interne RSPIR. Ne pas rendre le dépôt public et ne pas réutiliser Atelier Boréal
+comme témoignage ou étude de cas.

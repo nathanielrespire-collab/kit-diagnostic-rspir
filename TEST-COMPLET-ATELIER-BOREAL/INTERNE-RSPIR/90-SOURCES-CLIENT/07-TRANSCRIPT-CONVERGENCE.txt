@@ -1,0 +1,10 @@
+[00:00] RSPIR : Sophie et Marc, consentez-vous à l'enregistrement et à la transcription?
+[00:06] Sophie Tremblay : Oui.
+[00:08] Marc Gagnon : Oui.
+[03:10] RSPIR : Trois zones demeurent candidates : acquisition et suivi commercial, flux demande-soumission-commande, et visibilité stock-données produit.
+[07:30] Sophie Tremblay : Je suis surprise que le CRM ne soit pas premier, mais le flux de soumission touche directement les plaintes.
+[11:05] Marc Gagnon : Je valide ce périmètre, à condition de ne pas choisir les champs du futur système dans ce mandat.
+[14:20] Sophie Tremblay : D'accord. On valide le flux demande-soumission-commande. Je veux quand même savoir quand réouvrir la décision CRM.
+[16:00] RSPIR : Le déclencheur proposé sera une mesure de quatre semaines et un processus minimum stable.
+[16:08] Sophie Tremblay : Validé.
+

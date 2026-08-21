@@ -1,0 +1,39 @@
+version_offre: "2026-08-18"
+version_kit: "0.1-test"
+client: "Atelier Boréal Distribution inc. — FICTION"
+date_mandat: "2026-08-TEST-V1"
+lead_rspir: "Nath — rôle simulé"
+second_regard: "Réviseur RSPIR — rôle simulé"
+palier: "Élargi"
+score_complexite: 6
+moment_client: "fermeture"
+etape_offre: 15
+commande_autorisee: null
+contrat_commandes: "ORCHESTRATION-DES-COMMANDES.yaml"
+configuration_donnees: "CONFIGURATION-DONNEES-ET-OUTILS.md"
+retention_candidate_jours: 90
+configuration_comptes_verifiee: false
+statut: "test_termine"
+prochaine_rencontre: null
+entrees_presentes:
+  - "fiche du lead fictive"
+  - "réponses préappel fictives"
+  - "transcript de cadrage fictif"
+  - "deux transcripts d'immersion fictifs"
+  - "export de volumes fictif"
+  - "transcript de convergence fictif"
+  - "transcript de session de décision fictif"
+  - "notes de suivi fictives"
+entrees_manquantes: []
+sorties_attendues: []
+validation_requise: "aucune pour fermer le test; toutes les validations étaient simulées"
+validation_obtenue: true
+inconnues_critiques:
+  - "fréquence réelle des reprises — mesure de quatre semaines prescrite"
+modules_conditionnels:
+  - "risque IA proportionnel; IA non recommandée maintenant"
+frontiere_phase_2: true
+diagnostic_termine: true
+derniere_commande_terminee: "fermer_diagnostic"
+controles_bloquants: []
+derniere_mise_a_jour: "2026-08-20"
